@@ -76,7 +76,22 @@ Platform ini mendukung **multi-klien** dengan dashboard admin modern, analitik c
   └── README.md
 
   **Tampilan Aplikasi**
-  
+  ![Dashboard Preview](static/images/Login.png)
+  ![Dashboard Preview](static/images/Dashboard.png)
+  ![Dashboard Preview](static/images/Chat.png)
 
+✨ Rencana Pengembangan Selanjutnya
+
+🔍 Integrasi AI Chat dengan LLM (OpenAI / Ollama)
+🧾 Export laporan chat ke Exce
+🕒 Sistem logging aktivitas user
+📱 Versi mobile responsive penuh
+
+
+👨‍💻 Pengembang
+
+Rizky Juni Arigayo
+Mahasiswa Teknik Informatika — Universitas Pamulang
+Fokus: AI Engineer, Chatbot Development, Web3 Enthusiast
 
    
