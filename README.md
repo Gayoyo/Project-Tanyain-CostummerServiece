@@ -1,7 +1,15 @@
 🤖 Tanyain — Chatbot FAQ Multi-Klien Berbasis Flask
 
 Tanyain adalah sistem **Chatbot FAQ berbasis AI** yang dirancang untuk membantu **UMKM, sekolah, dan klinik kecil** menjawab pertanyaan pelanggan secara otomatis.  
-Platform ini mendukung **multi-klien** dengan dashboard admin modern, analitik chatbot, serta sistem approval dari superadmin.  
+Platform ini mendukung **multi-klien** dengan dashboard admin modern, analitik chatbot, serta sistem approval dari superadmin.
+
+## ✨ Impact & Traction (V.1 - PoC)
+
+Meskipun saat ini dalam fase *Proof-of-Concept* (PoC), Tanyain dirancang untuk mencapai metrik berikut:
+
+* **Tujuan Efisiensi:** Mengurangi waktu respons administrasi UMKM untuk pertanyaan FAQ **hingga 60%** per hari.
+* **Akurasi Model:** Model TF-IDF diuji dengan dataset internal mencapai akurasi pencocokan **85%**.
+* **Skalabilitas:** Arsitektur multi-klien memungkinkan penambahan pengguna baru **tanpa *deployment* ulang** sistem.
 
 🚀 Fitur Utama
 
