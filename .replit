@@ -3,7 +3,7 @@ modules = ["python-3.11"]
 
 [nix]
 channel = "stable-24_05"
-packages = ["glibcLocales", "sqlite-interactive", "tree"]
+packages = ["glibcLocales", "libxcrypt", "sqlite-interactive", "tree"]
 
 [unitTest]
 language = "python3"
