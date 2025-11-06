@@ -58,22 +58,29 @@ Platform ini mendukung **multi-klien** dengan dashboard admin modern, analitik c
 
 5.Akses di Akses di: http://localhost:5000
 
-**Struktur Proyek**
-  tanyain/
-  │
-  ├── app.py                    # Entry utama Flask
-  ├── models.py                 # Model database (Client, ChatHistory, FAQ)
-  ├── static/                   # Gambar, CSS, JS
-  │   └── img/T-putih.png
-  ├── templates/                # Semua halaman HTML
-  │   ├── base_superadmin.html
-  │   ├── superadmin.html
-  │   ├── index.html
-  │   ├── analytics.html
-  │   ├── login.html
-  │   └── register.html
-  ├── requirements.txt
-  └── README.md
+## 📁 Struktur Proyek
+
+```bash
+tanyain/
+│
+├── app.py                 # Entry utama Flask
+├── models.py              # Model database (Client, ChatHistory, FAQ)
+│
+├── static/                # Gambar, CSS, JS
+│   └── img/
+│       └── T-putih.png
+│
+├── templates/             # Semua halaman HTML
+│   ├── base_superadmin.html
+│   ├── superadmin.html
+│   ├── index.html
+│   ├── analytics.html
+│   ├── login.html
+│   └── register.html
+│
+├── requirements.txt
+└── README.md
+
 
   **Tampilan Aplikasi**
   ![Dashboard Preview](static/images/Login.png)
